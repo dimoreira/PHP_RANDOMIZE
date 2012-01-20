@@ -1,25 +1,15 @@
-SHAZAM
+PHP RANDOMIZE
 ======
-
-Shazam is a test repository to study git and github integration.
 
 Usage
 -----
 
 ``` php
 <?php
-	function rand()
-	{
-		echo 'rand';
-	}
+	require 'randomize.php';
+	
+	$string = randomize(10);
 ?>
 ```
 
-Or if u like the solo html:
-
-``` html
-<html>
-<body>
-</body>
-</html>
-```
+Outputs a random string mixed with numbers and letters
