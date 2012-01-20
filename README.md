@@ -2,7 +2,6 @@ PHP RANDOMIZE
 ======
 
 Usage
-<<<<<<< HEAD
 --
 --
 
