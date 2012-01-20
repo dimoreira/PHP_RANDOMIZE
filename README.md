@@ -7,10 +7,6 @@ Usage
 
 The randomize() function needs 1 argument:
 The length of the string.
-=======
--
----
->>>>>>> fe98caeae50eca57c2705b1f46263e2a857bcf20
 
 The function have a second parameter of options, that have a default value of "mixed" and option values of "letters", "numerical", "lowercase" and "uppercase".
 
