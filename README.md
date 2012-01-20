@@ -2,8 +2,8 @@ PHP RANDOMIZE
 ======
 
 Usage
------
------
+-
+---
 
 'mixed' (Letters + Numbers)
 --
